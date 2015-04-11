@@ -1,4 +1,4 @@
-# playing-jsonp
+# Playing JSONP
 <img src="/public/images/preloader.gif" height="50" /><img src="/public/images/preloader.gif" height="50" /><img src="/public/images/preloader.gif" height="50" /><img src="/public/images/preloader.gif" height="50" /><img src="/public/images/preloader.gif" height="50" /><img src="/public/images/preloader.gif" height="50" /><img src="/public/images/preloader.gif" height="50" /><img src="/public/images/preloader.gif" height="50" /><img src="/public/images/preloader.gif" height="50" /><img src="/public/images/preloader.gif" height="50" /><img src="/public/images/preloader.gif" height="50" /><img src="/public/images/preloader.gif" height="50" /><img src="/public/images/preloader.gif" height="50" /><img src="/public/images/preloader.gif" height="50" />
 
 Basic example to integrate JSONP mechanism in Play Application with the help of play-jsonp-filter module
