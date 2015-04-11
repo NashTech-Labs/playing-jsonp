@@ -1,6 +1,6 @@
 # playing-jsonp
 
-![alt tag](/public/images/preloader.gif) ![alt tag](/public/images/preloader.gif) ![alt tag](/public/images/preloader.gif) ![alt tag](/public/images/preloader.gif) ![alt tag](/public/images/preloader.gif) ![alt tag](/public/images/preloader.gif)
+![alt tag](/public/images/preloader.gif) ![alt tag](/public/images/preloader.gif) ![alt tag](/public/images/preloader.gif) ![alt tag](/public/images/preloader.gif) ![alt tag](/public/images/preloader.gif)
 
 Basic example to integrate JSONP mechanism in Play Application with the help of play-jsonp-filter module
 
