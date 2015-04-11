@@ -1,5 +1,7 @@
 # playing-jsonp
 
+![alt tag](/public/images/preloader.gif) ![alt tag](/public/images/preloader.gif) ![alt tag](/public/images/preloader.gif) ![alt tag](/public/images/preloader.gif) ![alt tag](/public/images/preloader.gif) ![alt tag](/public/images/preloader.gif)
+
 Basic example to integrate JSONP mechanism in Play Application with the help of play-jsonp-filter module
 
 ###[play-jsonp-filter](https://github.com/julienrf/play-jsonp-filter)
@@ -7,7 +9,6 @@ This filter enables JSONP on your existing API: any resource that returns a JSON
 
 For example, if the resource `/foo` gives the following JSON result: `{"foo": "bar"}`, the resource `/foo?callback=f` will give the following JavaScript result: `f({"foo": "bar"});`.
 
-![alt tag](/public/images/preloader.gif)
 
 - Used [play-jsonp-filter](https://github.com/julienrf/play-jsonp-filter) module to integrate JSONP mechanism
 - Embedded JS & CSS libraries with [WebJars](http://www.webjars.org/).
