@@ -1,7 +1,28 @@
 @(message: String)
 
-@main("Welcome to Play") {
-
-    @play20.welcome(message)
-
+@main("Render Json") {
+	
+	<!-- Begin page content -->
+	<div class="container">
+		<div class="page-header">
+			
+		</div>
+		
+		<div class="row">
+        	<div class="col-lg-12">
+          		<div class="bs-component">
+            		<div class="panel panel-primary">
+              			<div class="panel-heading">
+                			<h3 class="panel-title">Render Json data through JSONP mechanism</h3>
+              			</div>
+              			<div id="registrationFormContent" class="panel-body">
+              				<div class="text-center">
+              					<img alt="Loading..." src="@routes.Assets.at("images/preloader.gif")">
+              				</div>
+              			</div>
+            		</div>
+          		</div>
+        	</div>
+      	</div>
+    </div>
 }
